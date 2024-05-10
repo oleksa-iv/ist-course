@@ -1,4 +1,4 @@
-Варіанти вихідних даних до завдань лабораторних (практичних) робіт циклу з інформаційних систем та технологій.
+Варіанти вихідних даних до робіт з циклу інформаційних систем та технологій.
 
 * [Робота 4](https://github.com/oleksa-iv/ist-course-data/blob/master/pr_4_regression)
 * [Робота 5](https://github.com/oleksa-iv/ist-course-data/blob/master/pr_5_classification)
